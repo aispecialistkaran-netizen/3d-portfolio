@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>PERFORMANCE MARKETING</h3>
+              <h4>Data-Driven Growth at Scale</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Results-focused performance marketer specialized in SEO, SEM,
+                paid media, and social ads—building high-converting funnels that
+                reduce CAC and maximize ROI across every channel.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">SEO &amp; SEM</div>
+                <div className="what-tags">Paid Media</div>
+                <div className="what-tags">Social Ads</div>
+                <div className="what-tags">Lead Generation</div>
+                <div className="what-tags">Funnel Optimization</div>
+                <div className="what-tags">ROI Attribution</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>MARKETING AUTOMATION</h3>
+              <h4>AI-Powered CRM &amp; Workflow Systems</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Expert in building intelligent marketing automation pipelines
+                using HubSpot, Zoho, Marketo, and AI-powered CRMs—turning
+                manual processes into scalable, measurable revenue engines.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">HubSpot</div>
+                <div className="what-tags">Zoho &amp; Marketo</div>
+                <div className="what-tags">AI-powered CRMs</div>
+                <div className="what-tags">WhatsApp API</div>
+                <div className="what-tags">CRO &amp; Lead Nurturing</div>
+                <div className="what-tags">Predictive Analytics</div>
               </div>
               <div className="what-arrow"></div>
             </div>

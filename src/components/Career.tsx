@@ -15,58 +15,74 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Head of Marketing</h4>
+                <h5>Erickson Coaching International</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Marketing Leader driving ROI-focused marketing at scale. Leading a
+              10+ member team across performance marketing, AI-driven workflows,
+              and automation. Specialized in building high-converting funnels,
+              reducing CAC, and delivering measurable growth through data,
+              technology, and scalable marketing systems.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Head of Marketing</h4>
+                <h5>Irish Expert · Delhi</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2023–24</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Drove results with a dynamic team of designers, analysts,
+              videographers, writers, and developers. Passionate about
+              data-driven storytelling and innovative campaigns.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Marketing Manager</h4>
+                <h5>Skills Caravan LXP · Delhi</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Managed end-to-end marketing operations for the LXP platform,
+              driving brand awareness, lead generation, and product adoption
+              through integrated digital campaigns.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Asst. Digital Marketing Manager</h4>
+                <h5>xMonks · Gurugram</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2020–23</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Progressed from Digital Marketing Executive (Oct 2020) to
+              Assistant Digital Marketing Manager (Nov 2021). Led performance
+              marketing initiatives, SEO/SEM campaigns, and marketing
+              automation workflows for the xMonks ecosystem.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Growth Marketing Associate</h4>
+                <h5>NetCom Learning · Noida</h5>
+              </div>
+              <h3>2020</h3>
+            </div>
+            <p>
+              Contributed to growth marketing strategies, customer acquisition
+              campaigns, and lead nurturing pipelines for an e-learning
+              platform.
             </p>
           </div>
         </div>
